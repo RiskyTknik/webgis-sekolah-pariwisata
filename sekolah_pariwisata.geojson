@@ -1,0 +1,2806 @@
+{
+  "type": "FeatureCollection",
+  "name": "sekolah_pariwisata",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-001",
+        "NAMA_OBJ": "Pantai Paal",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Marinsow, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Marinsow",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1502, 1.6669",
+        "LATITUDE": 1.6669,
+        "LONGITUDE": 125.1502,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara / Kemenparekraf",
+        "KETERANGAN": "Pantai pasir putih bergradasi toska, ikon utama KEK Pariwisata Likupang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Paal_Beach_Likupang.jpg/800px-Paal_Beach_Likupang.jpg",
+        "WEBSITE": "https://indonesia.travel/id/id/destinasi/sulawesi/likupang/pantai-paal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1502,
+          1.6669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-002",
+        "NAMA_OBJ": "Pantai Pulisan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Pulisan, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Pulisan",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1528, 1.6883",
+        "LATITUDE": 1.6883,
+        "LONGITUDE": 125.1528,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Hamparan pasir putih halus dengan tebing karang dan gua eksotis tepi pantai",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pulisan_Beach_Likupang.jpg/800px-Pulisan_Beach_Likupang.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/pulisan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1528,
+          1.6883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-003",
+        "NAMA_OBJ": "Bukit Pulisan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Perbukitan",
+        "ALAMAT": "Desa Pulisan, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Pulisan",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1510, 1.6850",
+        "LATITUDE": 1.685,
+        "LONGITUDE": 125.151,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Padang savana hijau dengan panorama lepas Teluk Likupang dan laut biru",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bukit_Pulisan_Likupang.jpg/800px-Bukit_Pulisan_Likupang.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/pulisan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.151,
+          1.685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-004",
+        "NAMA_OBJ": "Bukit Larata",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Perbukitan",
+        "ALAMAT": "Desa Kinunang, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Kinunang",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1539, 1.6775",
+        "LATITUDE": 1.6775,
+        "LONGITUDE": 125.1539,
+        "SUMBER": "Kemenparekraf RI",
+        "KETERANGAN": "Bukit savana dengan pemandangan langsung Selat Lembeh dan Gunung Dua Saudara",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bukit_Larata_Likupang.jpg/800px-Bukit_Larata_Likupang.jpg",
+        "WEBSITE": "https://indonesia.travel/id/id/ide-liburan/menikmati-keindahan-bukit-larata-di-likupang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1539,
+          1.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-005",
+        "NAMA_OBJ": "Pantai Kinunang",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Kinunang, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Kinunang",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1550, 1.6740",
+        "LATITUDE": 1.674,
+        "LONGITUDE": 125.155,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Pantai alami berpasir putih tepat di bawah kaki Bukit Larata",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pantai_Kinunang_Likupang.jpg/800px-Pantai_Kinunang_Likupang.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/kinunang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.155,
+          1.674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-006",
+        "NAMA_OBJ": "Pantai Surabaya Untet",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Untet, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Untet",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1055, 1.6622",
+        "LATITUDE": 1.6622,
+        "LONGITUDE": 125.1055,
+        "SUMBER": "Pemkab Minahasa Utara",
+        "KETERANGAN": "Destinasi pantai keluarga dengan fasilitas gazebo dan sajian kuliner khas pesisir",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pantai_Surabaya_Untet.jpg/800px-Pantai_Surabaya_Untet.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-surabaya-untet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1055,
+          1.6622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-007",
+        "NAMA_OBJ": "Pulau Lihaga",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pulau",
+        "ALAMAT": "Perairan Gangga-Lihaga, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Gangga Satu",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0494, 1.7548",
+        "LATITUDE": 1.7548,
+        "LONGITUDE": 125.0494,
+        "SUMBER": "Kemenparekraf RI",
+        "KETERANGAN": "Pulau tak berpenghuni seluas 8 hektare dengan terumbu karang virgin kelas dunia",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lihaga_Island_Likupang.jpg/800px-Lihaga_Island_Likupang.jpg",
+        "WEBSITE": "https://indonesia.travel/id/id/destinasi/sulawesi/likupang/pulau-lihaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0494,
+          1.7548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-008",
+        "NAMA_OBJ": "Pulau Gangga",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pulau",
+        "ALAMAT": "Desa Gangga Satu, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Gangga Satu",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0682, 1.7610",
+        "LATITUDE": 1.761,
+        "LONGITUDE": 125.0682,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Destinasi diving internasional dengan keanekaragaman hayati laut dan resor eksklusif",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gangga_Island_Resort.jpg/800px-Gangga_Island_Resort.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pulau-gangga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0682,
+          1.761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-009",
+        "NAMA_OBJ": "Pulau Bangka",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pulau",
+        "ALAMAT": "Desa Lihunu / Kahuku, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Lihunu",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1386, 1.7925",
+        "LATITUDE": 1.7925,
+        "LONGITUDE": 125.1386,
+        "SUMBER": "BKSDA Sulawesi Utara",
+        "KETERANGAN": "Spot penyelaman terkemuka (Peter's Sponge) dan keindahan pantai terpencil",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bangka_Island_North_Sulawesi.jpg/800px-Bangka_Island_North_Sulawesi.jpg",
+        "WEBSITE": "https://bksdasulut.menlhk.go.id/destinasi/pulau-bangka-likupang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1386,
+          1.7925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-010",
+        "NAMA_OBJ": "Ekowisata Bahoi",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Ekowisata & Hutan Mangrove",
+        "ALAMAT": "Desa Bahoi, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Bahoi",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0195, 1.7242",
+        "LATITUDE": 1.7242,
+        "LONGITUDE": 125.0195,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Desa ekowisata berbasis komunitas dengan jembatan mangrove dan daerah perlindungan laut",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ekowisata_Mangrove_Bahoi.jpg/800px-Ekowisata_Mangrove_Bahoi.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/bahoi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0195,
+          1.7242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-011",
+        "NAMA_OBJ": "Pantai Sampirang",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Kalinaun, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Kalinaun",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1320, 1.6421",
+        "LATITUDE": 1.6421,
+        "LONGITUDE": 125.132,
+        "SUMBER": "Pemdes Kalinaun / Dispar Minut",
+        "KETERANGAN": "Pantai tersembunyi berair jernih dengan formasi batuan karang unik tepi pantai",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pantai_Sampirang_Kalinaun.jpg/800px-Pantai_Sampirang_Kalinaun.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/kalinaun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.132,
+          1.6421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-012",
+        "NAMA_OBJ": "Pantai Tarabitan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Tarabitan, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Tarabitan",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0062, 1.7145",
+        "LATITUDE": 1.7145,
+        "LONGITUDE": 125.0062,
+        "SUMBER": "Pemkab Minahasa Utara",
+        "KETERANGAN": "Pesisir pantai barat Minahasa Utara dengan spot matahari terbenam (sunset) memukau",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pantai_Tarabitan_Likupang.jpg/800px-Pantai_Tarabitan_Likupang.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-tarabitan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0062,
+          1.7145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-013",
+        "NAMA_OBJ": "Air Terjun Tunan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Air Terjun",
+        "ALAMAT": "Desa Talawaan, Talawaan, Minahasa Utara",
+        "DESA_KEL": "Talawaan",
+        "KECAMATAN": "Talawaan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9658, 1.5032",
+        "LATITUDE": 1.5032,
+        "LONGITUDE": 124.9658,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Air terjun alami dengan ketinggian 86 meter di tengah rimbunnya hutan lindung tropis",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Air_Terjun_Tunan_Minahasa_Utara.jpg/800px-Air_Terjun_Tunan_Minahasa_Utara.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/air-terjun-tunan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9658,
+          1.5032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-014",
+        "NAMA_OBJ": "Makam Maria Walanda Maramis",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Budaya",
+        "ALAMAT": "Desa Maumbi, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Maumbi",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9084, 1.4552",
+        "LATITUDE": 1.4552,
+        "LONGITUDE": 124.9084,
+        "SUMBER": "Balai Pelestarian Kebudayaan XVII",
+        "KETERANGAN": "Kompleks makam Pahlawan Nasional pejuang hak dan emansipasi wanita Indonesia",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Makam_Maria_Walanda_Maramis.jpg/800px-Makam_Maria_Walanda_Maramis.jpg",
+        "WEBSITE": "https://kebudayaan.kemdikbud.go.id/bpcbsulut/makam-pahlawan-nasional-maria-walanda-maramis/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9084,
+          1.4552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-015",
+        "NAMA_OBJ": "Bendungan Kuwil Kawangkoan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Edukasi & Buatan",
+        "ALAMAT": "Desa Kawangkoan, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Kawangkoan",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9209, 1.4432",
+        "LATITUDE": 1.4432,
+        "LONGITUDE": 124.9209,
+        "SUMBER": "Kementerian PUPR / Pemkab Minut",
+        "KETERANGAN": "Destinasi bendungan serbaguna dilengkapi taman wisata budaya waruga dan ruang terbuka hijau",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bendungan_Kuwil_Kawangkoan.jpg/800px-Bendungan_Kuwil_Kawangkoan.jpg",
+        "WEBSITE": "https://sda.pu.go.id/balai/bwssulawesi1/bendungan-kuwil-kawangkoan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9209,
+          1.4432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-016",
+        "NAMA_OBJ": "Taman Purbakala Waruga Sawangan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Budaya",
+        "ALAMAT": "Desa Sawangan, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Sawangan",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9482, 1.3916",
+        "LATITUDE": 1.3916,
+        "LONGITUDE": 124.9482,
+        "SUMBER": "Balai Pelestarian Kebudayaan XVII",
+        "KETERANGAN": "Cagar budaya megalitikum menyimpan 144 peti kubur batu kuno suku Minahasa",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Waruga_Sawangan_North_Sulawesi.jpg/800px-Waruga_Sawangan_North_Sulawesi.jpg",
+        "WEBSITE": "https://kebudayaan.kemdikbud.go.id/bpcbsulut/taman-purbakala-waruga-sawangan/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9482,
+          1.3916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-017",
+        "NAMA_OBJ": "Kompleks Waruga Airmadidi Bawah",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Budaya",
+        "ALAMAT": "Kelurahan Airmadidi Bawah, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Bawah",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9785, 1.4172",
+        "LATITUDE": 1.4172,
+        "LONGITUDE": 124.9785,
+        "SUMBER": "Balai Pelestarian Kebudayaan XVII",
+        "KETERANGAN": "Situs cagar budaya waruga leluhur Tonsea yang terletak di kawasan kota Airmadidi",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Waruga_Airmadidi_Bawah.jpg/800px-Waruga_Airmadidi_Bawah.jpg",
+        "WEBSITE": "https://kebudayaan.kemdikbud.go.id/bpcbsulut/waruga-airmadidi-bawah/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9785,
+          1.4172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-018",
+        "NAMA_OBJ": "Gunung Klabat (Puncak Tamporok)",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Pendakian",
+        "ALAMAT": "Jalur Pendakian Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Atas",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0322, 1.4642",
+        "LATITUDE": 1.4642,
+        "LONGITUDE": 125.0322,
+        "SUMBER": "BKSDA Sulawesi Utara",
+        "KETERANGAN": "Gunung tertinggi di Sulawesi Utara (1.995 mdpl) dengan kawah dan panorama menakjubkan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mount_Klabat_Summit.jpg/800px-Mount_Klabat_Summit.jpg",
+        "WEBSITE": "https://bksdasulut.menlhk.go.id/kawasan/twa-gunung-klabat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0322,
+          1.4642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-019",
+        "NAMA_OBJ": "Monumen & Salib Kaki Dian",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Religi & Alam",
+        "ALAMAT": "Kelurahan Airmadidi Atas, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Atas",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9986, 1.4285",
+        "LATITUDE": 1.4285,
+        "LONGITUDE": 124.9986,
+        "SUMBER": "Pemkab Minahasa Utara",
+        "KETERANGAN": "Landmark religi menara kaki dian setinggi 19 meter berlatar pemandangan kota dan laut",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kaki_Dian_Minahasa_Utara.jpg/800px-Kaki_Dian_Minahasa_Utara.jpg",
+        "WEBSITE": "https://minut.go.id/pariwisata/kaki-dian-airmadidi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9986,
+          1.4285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-020",
+        "NAMA_OBJ": "Raewaya Hills",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Rekreasi & Panorama",
+        "ALAMAT": "Kelurahan Airmadidi Atas, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Atas",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9950, 1.4292",
+        "LATITUDE": 1.4292,
+        "LONGITUDE": 124.995,
+        "SUMBER": "Pengelola Raewaya Hills",
+        "KETERANGAN": "Destinasi rekreasi kaki Gunung Klabat dengan kafe, gardu pandang, dan wahana outdoor",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Raewaya_Hills_Airmadidi.jpg/800px-Raewaya_Hills_Airmadidi.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/raewaya-hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.995,
+          1.4292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-021",
+        "NAMA_OBJ": "Desa Wisata Budo",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Ekowisata & Mangrove",
+        "ALAMAT": "Desa Budo, Wori, Minahasa Utara",
+        "DESA_KEL": "Budo",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8712, 1.5794",
+        "LATITUDE": 1.5794,
+        "LONGITUDE": 124.8712,
+        "SUMBER": "Kemenparekraf RI (Juara ADWI)",
+        "KETERANGAN": "Desa wisata mangrove dengan jembatan kayu menghadap siluet Gunung Manado Tua",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Desa_Wisata_Budo_Wori.jpg/800px-Desa_Wisata_Budo_Wori.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/desa_wisata_budo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8712,
+          1.5794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-022",
+        "NAMA_OBJ": "Hutan Mangrove Tiwoho",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Ekowisata & Konservasi",
+        "ALAMAT": "Desa Tiwoho, Wori, Minahasa Utara",
+        "DESA_KEL": "Tiwoho",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8583, 1.5750",
+        "LATITUDE": 1.575,
+        "LONGITUDE": 124.8583,
+        "SUMBER": "Balai Taman Nasional Bunaken",
+        "KETERANGAN": "Kawasan konservasi mangrove dengan keanekaragaman jenis bakau terlengkap di Indonesia",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mangrove_Tiwoho_Bunaken.jpg/800px-Mangrove_Tiwoho_Bunaken.jpg",
+        "WEBSITE": "https://bunaken.menlhk.go.id/konservasi-mangrove-tiwoho/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8583,
+          1.575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-023",
+        "NAMA_OBJ": "Pulau Nain",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pulau",
+        "ALAMAT": "Desa Nain, Wori, Minahasa Utara",
+        "DESA_KEL": "Nain",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.7867, 1.7583",
+        "LATITUDE": 1.7583,
+        "LONGITUDE": 124.7867,
+        "SUMBER": "Balai Taman Nasional Bunaken",
+        "KETERANGAN": "Pulau berpenduduk suku Bajo dengan fenomena pasir timbul (Bungin Nain) saat surut",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bungin_Pasir_Timbul_Pulau_Nain.jpg/800px-Bungin_Pasir_Timbul_Pulau_Nain.jpg",
+        "WEBSITE": "https://bunaken.menlhk.go.id/destinasi-wisata-pulau-nain/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7867,
+          1.7583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-024",
+        "NAMA_OBJ": "Pulau Mantehage",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Ekowisata",
+        "ALAMAT": "Desa Tangkasi, Wori, Minahasa Utara",
+        "DESA_KEL": "Tangkasi",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.7578, 1.7228",
+        "LATITUDE": 1.7228,
+        "LONGITUDE": 124.7578,
+        "SUMBER": "Balai Taman Nasional Bunaken",
+        "KETERANGAN": "Pulau dengan laguna mangrove alami dan spot penyelaman bawah laut yang spektakuler",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mantehage_Island_Mangrove.jpg/800px-Mantehage_Island_Mangrove.jpg",
+        "WEBSITE": "https://bunaken.menlhk.go.id/destinasi-wisata-pulau-mantehage/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7578,
+          1.7228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-025",
+        "NAMA_OBJ": "Pantai Firdaus Kema",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Kema II, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema II",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0683, 1.3688",
+        "LATITUDE": 1.3688,
+        "LONGITUDE": 125.0683,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Pantai bersejarah di teluk pelabuhan kuno Kema berpasir kelabu dan berombak tenang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pantai_Firdaus_Kema.jpg/800px-Pantai_Firdaus_Kema.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-firdaus-kema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0683,
+          1.3688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-026",
+        "NAMA_OBJ": "Pantai Batu Nona",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Resor",
+        "ALAMAT": "Desa Kema Tiga, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema Tiga",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0747, 1.3542",
+        "LATITUDE": 1.3542,
+        "LONGITUDE": 125.0747,
+        "SUMBER": "Pengelola Batu Nona Resort",
+        "KETERANGAN": "Kawasan wisata pantai berbatu karang dengan fasilitas kolam renang tepi laut",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantai_Batu_Nona_Kema.jpg/800px-Pantai_Batu_Nona_Kema.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-batu-nona-resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0747,
+          1.3542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-027",
+        "NAMA_OBJ": "Benteng Portugis Kema",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Benteng",
+        "ALAMAT": "Desa Kema II, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema II",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0672, 1.3695",
+        "LATITUDE": 1.3695,
+        "LONGITUDE": 125.0672,
+        "SUMBER": "Balai Pelestarian Kebudayaan XVII",
+        "KETERANGAN": "Situs peninggalan benteng kolonial Portugis abad ke-16 di pesisir Teluk Kema",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Benteng_Portugis_Kema.jpg/800px-Benteng_Portugis_Kema.jpg",
+        "WEBSITE": "https://kebudayaan.kemdikbud.go.id/bpcbsulut/benteng-portugis-kema/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0672,
+          1.3695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-028",
+        "NAMA_OBJ": "Penjara Tua Kema",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Kolonial",
+        "ALAMAT": "Desa Kema II, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema II",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0664, 1.3675",
+        "LATITUDE": 1.3675,
+        "LONGITUDE": 125.0664,
+        "SUMBER": "Disbudpar Minahasa Utara",
+        "KETERANGAN": "Bangunan bersejarah peninggalan era VOC Belanda tempat penahanan masa kolonial",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Penjara_Tua_Kema_VOC.jpg/800px-Penjara_Tua_Kema_VOC.jpg",
+        "WEBSITE": "https://kebudayaan.kemdikbud.go.id/bpcbsulut/penjara-tua-kema/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0664,
+          1.3675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-029",
+        "NAMA_OBJ": "Makam Tonaas Xaverius Dotulong",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Budaya",
+        "ALAMAT": "Desa Kema I, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema I",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0645, 1.3712",
+        "LATITUDE": 1.3712,
+        "LONGITUDE": 125.0645,
+        "SUMBER": "Balai Pelestarian Kebudayaan XVII",
+        "KETERANGAN": "Makam kepala suku Tonsea legendaris dalam bentuk waruga berarsitektur khas Minahasa",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Makam_Xaverius_Dotulong_Waruga.jpg/800px-Makam_Xaverius_Dotulong_Waruga.jpg",
+        "WEBSITE": "https://kebudayaan.kemdikbud.go.id/bpcbsulut/makam-xaverius-dotulong-kema/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0645,
+          1.3712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-030",
+        "NAMA_OBJ": "Tanjung Kramat Kema",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Religi",
+        "ALAMAT": "Desa Kema III, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema III",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0782, 1.3510",
+        "LATITUDE": 1.351,
+        "LONGITUDE": 125.0782,
+        "SUMBER": "Pemdes Kema III / Dispar Minut",
+        "KETERANGAN": "Lokasi ziarah bersejarah tokoh penyiar Islam abad ke-17 di tanjung berbatu pesisir timur",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tanjung_Kramat_Kema.jpg/800px-Tanjung_Kramat_Kema.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/tanjung-kramat-kema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0782,
+          1.351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-031",
+        "NAMA_OBJ": "Pantai Lilang",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Lilang, Kema, Minahasa Utara",
+        "DESA_KEL": "Lilang",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0841, 1.3325",
+        "LATITUDE": 1.3325,
+        "LONGITUDE": 125.0841,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Pantai pasir putih tenang berlatar perbukitan hijau kelapa di pesisir timur Minut",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pantai_Lilang_Kema.jpg/800px-Pantai_Lilang_Kema.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-lilang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0841,
+          1.3325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-032",
+        "NAMA_OBJ": "Pantai Makalisung",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Makalisung, Kema, Minahasa Utara",
+        "DESA_KEL": "Makalisung",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0921, 1.3094",
+        "LATITUDE": 1.3094,
+        "LONGITUDE": 125.0921,
+        "SUMBER": "Pemdes Makalisung / Dispar Minut",
+        "KETERANGAN": "Pantai alami batas selatan Minahasa Utara berbatasan langsung dengan perairan Maluku",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pantai_Makalisung_Minut.jpg/800px-Pantai_Makalisung_Minut.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-makalisung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0921,
+          1.3094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-033",
+        "NAMA_OBJ": "Mata Air Ranolewo Sawangan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Rekreasi & Air Alami",
+        "ALAMAT": "Desa Sawangan, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Sawangan",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9455, 1.3892",
+        "LATITUDE": 1.3892,
+        "LONGITUDE": 124.9455,
+        "SUMBER": "Pemkab Minahasa Utara",
+        "KETERANGAN": "Kolam pemandian mata air hangat alami dengan air jernih dipercaya menyehatkan tubuh",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mata_Air_Ranolewo Sawangan.jpg/800px-Mata_Air_Ranolewo_Sawangan.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/mata-air-ranolewo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9455,
+          1.3892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-034",
+        "NAMA_OBJ": "Arung Jeram Sungai Sawangan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Petualangan & Olahraga",
+        "ALAMAT": "Desa Sawangan, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Sawangan",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9460, 1.3920",
+        "LATITUDE": 1.392,
+        "LONGITUDE": 124.946,
+        "SUMBER": "FAJI Sulawesi Utara",
+        "KETERANGAN": "Rute arung jeram hulu Sungai Tondano dengan jeram menantang dan pemandangan lembah tropis",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arung_Jeram_Sungai_Sawangan.jpg/800px-Arung_Jeram_Sungai_Sawangan.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/arung-jeram-sawangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.946,
+          1.392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-035",
+        "NAMA_OBJ": "Air Terjun Suwaan",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Air Terjun",
+        "ALAMAT": "Desa Suwaan, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Suwaan",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9480, 1.4420",
+        "LATITUDE": 1.442,
+        "LONGITUDE": 124.948,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Air terjun bertingkat yang asri dan sejuk di kawasan perbukitan Suwaan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Air_Terjun_Suwaan_Kalawat.jpg/800px-Air_Terjun_Suwaan_Kalawat.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/air-terjun-suwaan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.948,
+          1.442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-036",
+        "NAMA_OBJ": "Pemandian Air Panas Tumaluntung",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Rekreasi & Relaksasi",
+        "ALAMAT": "Desa Tumaluntung, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Tumaluntung",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0210, 1.4110",
+        "LATITUDE": 1.411,
+        "LONGITUDE": 125.021,
+        "SUMBER": "Pemdes Tumaluntung",
+        "KETERANGAN": "Pemandian air panas alami hasil aktivitas termal vulkanik Gunung Klabat",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Air_Panas_Tumaluntung.jpg/800px-Air_Panas_Tumaluntung.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/tumaluntung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.021,
+          1.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-037",
+        "NAMA_OBJ": "Rumah Adat Walewangko Tonsea",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Sejarah & Budaya",
+        "ALAMAT": "Desa Kauditan I, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Kauditan I",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0345, 1.4015",
+        "LATITUDE": 1.4015,
+        "LONGITUDE": 125.0345,
+        "SUMBER": "Disbudpar Minahasa Utara",
+        "KETERANGAN": "Rumah panggung tradisional kayu khas Minahasa Tonsea peninggalan tempo dulu",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rumah_Adat_Walewangko_Tonsea.jpg/800px-Rumah_Adat_Walewangko_Tonsea.jpg",
+        "WEBSITE": "https://kebudayaan.kemdikbud.go.id/bpcbsulut/rumah-adat-walewangko-kauditan/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0345,
+          1.4015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-038",
+        "NAMA_OBJ": "Kawasan Pesisir Cagar Alam Tangkoko",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Konservasi Alam",
+        "ALAMAT": "Pesisir Timur Kema - Kauditan, Minahasa Utara",
+        "DESA_KEL": "Makalisung",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1889, 1.5412",
+        "LATITUDE": 1.5412,
+        "LONGITUDE": 125.1889,
+        "SUMBER": "BKSDA Sulawesi Utara",
+        "KETERANGAN": "Zona konservasi habitat satwa endemik tarsius, yaki pantat merah, dan kuskus beruang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tangkoko_Nature_Reserve_Coast.jpg/800px-Tangkoko_Nature_Reserve_Coast.jpg",
+        "WEBSITE": "https://bksdasulut.menlhk.go.id/kawasan/cagar-alam-tangkoko-batuangus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1889,
+          1.5412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-039",
+        "NAMA_OBJ": "Pantai Serena",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Serena, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Serena",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9875, 1.7102",
+        "LATITUDE": 1.7102,
+        "LONGITUDE": 124.9875,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Teluk tersembunyi dengan pantai tenang bergradasi toska dikelilingi pepohonan rimbun",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pantai_Serena_Likupang_Barat.jpg/800px-Pantai_Serena_Likupang_Barat.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-serena-likupang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9875,
+          1.7102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-040",
+        "NAMA_OBJ": "Pantai Kalinaun",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Kalinaun, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Kalinaun",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1390, 1.6375",
+        "LATITUDE": 1.6375,
+        "LONGITUDE": 125.139,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Pantai berpasir keemasan dengan tebing-tebing karang eksotis pemandangan laut terbuka",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pantai_Kalinaun_Likupang.jpg/800px-Pantai_Kalinaun_Likupang.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/kalinaun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.139,
+          1.6375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-041",
+        "NAMA_OBJ": "Pantai Tambun",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Likupang Dua, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Likupang Dua",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0560, 1.6841",
+        "LATITUDE": 1.6841,
+        "LONGITUDE": 125.056,
+        "SUMBER": "Pemdes Likupang Dua / Dispar Minut",
+        "KETERANGAN": "Pantai pesisir dekat pelabuhan Likupang dengan aktivitas nelayan tradisional Tonsea",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pantai_Tambun_Likupang.jpg/800px-Pantai_Tambun_Likupang.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pantai-tambun-likupang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.056,
+          1.6841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-042",
+        "NAMA_OBJ": "Wisata Mangrove Talawaan Bajo",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Ekowisata & Mangrove",
+        "ALAMAT": "Desa Talawaan Bajo, Wori, Minahasa Utara",
+        "DESA_KEL": "Talawaan Bajo",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8789, 1.5645",
+        "LATITUDE": 1.5645,
+        "LONGITUDE": 124.8789,
+        "SUMBER": "Pemdes Talawaan Bajo",
+        "KETERANGAN": "Jalur boardwalk kayu menyusuri hutan bakau lebat menuju dermaga keberangkatan pulau",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mangrove_Talawaan_Bajo_Wori.jpg/800px-Mangrove_Talawaan_Bajo_Wori.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/talawaan_bajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8789,
+          1.5645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-043",
+        "NAMA_OBJ": "Pulau Talise",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Petualangan",
+        "ALAMAT": "Desa Talise, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Talise",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0382, 1.8385",
+        "LATITUDE": 1.8385,
+        "LONGITUDE": 125.0382,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Pulau eksotis dengan spot diving gua bawah laut dan peninggalan mercusuar zaman kolonial",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pulau_Talise_Likupang.jpg/800px-Pulau_Talise_Likupang.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/pulau-talise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0382,
+          1.8385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-044",
+        "NAMA_OBJ": "Air Terjun Marawuwung",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Air Terjun",
+        "ALAMAT": "Desa Kima Bajo, Wori, Minahasa Utara",
+        "DESA_KEL": "Kima Bajo",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8820, 1.5512",
+        "LATITUDE": 1.5512,
+        "LONGITUDE": 124.882,
+        "SUMBER": "Dispar Minahasa Utara",
+        "KETERANGAN": "Air terjun alami di punggung perbukitan pesisir Wori dengan udara pegunungan sejuk",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Air_Terjun_Marawuwung_Wori.jpg/800px-Air_Terjun_Marawuwung_Wori.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/air-terjun-marawuwung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.882,
+          1.5512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-045",
+        "NAMA_OBJ": "Danau Seper",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Danau",
+        "ALAMAT": "Desa Rinondoran, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Rinondoran",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1432, 1.6515",
+        "LATITUDE": 1.6515,
+        "LONGITUDE": 125.1432,
+        "SUMBER": "Pemdes Rinondoran / Dispar Minut",
+        "KETERANGAN": "Danau air tawar alami yang tenang di tengah kawasan perbukitan hijau Likupang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Danau_Seper_Likupang_Timur.jpg/800px-Danau_Seper_Likupang_Timur.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/danau-seper-rinondoran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1432,
+          1.6515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-046",
+        "NAMA_OBJ": "Camp James Sukur",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Rekreasi Tematik",
+        "ALAMAT": "Desa Sukur, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Sukur",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9610, 1.4245",
+        "LATITUDE": 1.4245,
+        "LONGITUDE": 124.961,
+        "SUMBER": "Pengelola Camp James",
+        "KETERANGAN": "Kawasan rekreasi bertema koboi Wild West Amerika dengan fasilitas kuliner dan spot foto unik",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Camp_James_Sukur_Airmadidi.jpg/800px-Camp_James_Sukur_Airmadidi.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/camp-james-sukur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.961,
+          1.4245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-047",
+        "NAMA_OBJ": "Puncak Bukit Wolian",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Panorama",
+        "ALAMAT": "Desa Wolian, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Wolian",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9650, 1.6920",
+        "LATITUDE": 1.692,
+        "LONGITUDE": 124.965,
+        "SUMBER": "Pemdes Wolian / Dispar Minut",
+        "KETERANGAN": "Gardu pandang perbukitan menghadap lanskap gugusan pulau-pulau kecil di Likupang Barat",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bukit_Wolian_Likupang_Barat.jpg/800px-Bukit_Wolian_Likupang_Barat.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/puncak-bukit-wolian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.965,
+          1.692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-048",
+        "NAMA_OBJ": "Pantai Pasir Putih Gangga Satu",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Bahari & Pantai",
+        "ALAMAT": "Desa Gangga Satu, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Gangga Satu",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0695, 1.7645",
+        "LATITUDE": 1.7645,
+        "LONGITUDE": 125.0695,
+        "SUMBER": "Dinas Pariwisata Minahasa Utara",
+        "KETERANGAN": "Garis pantai pasir putih bersih dengan biota bawah laut kaya di sekitar Pulau Gangga",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pantai_Gangga_Satu_Likupang.jpg/800px-Pantai_Gangga_Satu_Likupang.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/gangga_satu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0695,
+          1.7645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-049",
+        "NAMA_OBJ": "Gardu Pandang Paslaten",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Alam & Panorama",
+        "ALAMAT": "Desa Paslaten, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Paslaten",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0450, 1.4180",
+        "LATITUDE": 1.418,
+        "LONGITUDE": 125.045,
+        "SUMBER": "Pemdes Paslaten / Pokdarwis",
+        "KETERANGAN": "Spot melihat lanskap lembah persawahan Kauditan, Gunung Klabat, hingga Selat Lembeh",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gardu_Pandang_Paslaten_Kauditan.jpg/800px-Gardu_Pandang_Paslaten_Kauditan.jpg",
+        "WEBSITE": "https://jadesta.kemenparekraf.go.id/desa/paslaten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.045,
+          1.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "WST-050",
+        "NAMA_OBJ": "Agrowisata Buah Naga Tatelu",
+        "KATEGORI": "Pariwisata",
+        "SUB_KAT": "Wisata Agro & Edukasi",
+        "ALAMAT": "Desa Tatelu, Dimembe, Minahasa Utara",
+        "DESA_KEL": "Tatelu",
+        "KECAMATAN": "Dimembe",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9750, 1.4720",
+        "LATITUDE": 1.472,
+        "LONGITUDE": 124.975,
+        "SUMBER": "Kelompok Tani Tatelu / Distan Minut",
+        "KETERANGAN": "Kebun buah naga organik dengan paket wisata edukasi pertanian dan petik buah segar langsung",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Agrowisata_Buah_Naga_Tatelu.jpg/800px-Agrowisata_Buah_Naga_Tatelu.jpg",
+        "WEBSITE": "https://dispar.minut.go.id/destinasi/agrowisata-buah-naga-tatelu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.975,
+          1.472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-001",
+        "NAMA_OBJ": "Universitas Klabat (UNKLAB)",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Perguruan Tinggi (Universitas Swasta)",
+        "ALAMAT": "Jl. Arnold Mononutu, Airmadidi Bawah, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Bawah",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9825, 1.4168",
+        "LATITUDE": 1.4168,
+        "LONGITUDE": 124.9825,
+        "SUMBER": "LLDIKTI Wilayah XVI / Kemendikbudristek",
+        "KETERANGAN": "Universitas swasta terkemuka di Sulawesi Utara naungan Yayasan Perguruan Advent",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gedung_Pusat_Universitas_Klabat.jpg/800px-Gedung_Pusat_Universitas_Klabat.jpg",
+        "WEBSITE": "https://www.unklab.ac.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9825,
+          1.4168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-002",
+        "NAMA_OBJ": "Politeknik Pelayaran Sulawesi Utara",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Perguruan Tinggi (Kedinasan / Vokasi)",
+        "ALAMAT": "Jl. Trans Sulawesi, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Kalawat",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9215, 1.4880",
+        "LATITUDE": 1.488,
+        "LONGITUDE": 124.9215,
+        "SUMBER": "BPSDM Perhubungan / Kemenhub RI",
+        "KETERANGAN": "Kampus kedinasan pendidikan maritim dan kepelautan niaga standar internasional IMO",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kampus_Poltekpel_Sulawesi_Utara.jpg/800px-Kampus_Poltekpel_Sulawesi_Utara.jpg",
+        "WEBSITE": "https://poltekpel-sulut.ac.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9215,
+          1.488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-003",
+        "NAMA_OBJ": "IAKN Manado Kampus Tatelu",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Perguruan Tinggi (Institut Agama Kristen Negeri)",
+        "ALAMAT": "Jl. Raya Tatelu - Pinilih, Tatelu, Dimembe, Minahasa Utara",
+        "DESA_KEL": "Tatelu",
+        "KECAMATAN": "Dimembe",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9780, 1.4745",
+        "LATITUDE": 1.4745,
+        "LONGITUDE": 124.978,
+        "SUMBER": "Kementerian Agama RI",
+        "KETERANGAN": "Fasilitas pengembangan kampus dan riset terpadu Institut Agama Kristen Negeri Manado",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gedung_IAKN_Manado.jpg/800px-Gedung_IAKN_Manado.jpg",
+        "WEBSITE": "https://iakn-manado.ac.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.978,
+          1.4745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-004",
+        "NAMA_OBJ": "SMA Negeri 1 Airmadidi",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Prof. Arnold Mononutu, Sarongsong Satu, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Sarongsong Satu",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9790, 1.4215",
+        "LATITUDE": 1.4215,
+        "LONGITUDE": 124.979,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "Sekolah menengah atas negeri unggulan terakreditasi A di pusat ibu kota kabupaten",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gedung_SMAN_1_Airmadidi.jpg/800px-Gedung_SMAN_1_Airmadidi.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/1A2F6030-2CF5-E011-8594-5FD94D3B4C57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.979,
+          1.4215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-005",
+        "NAMA_OBJ": "SMA Negeri 1 Kalawat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Raya Manado - Bitung, Kolongan, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Kolongan",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9125, 1.4620",
+        "LATITUDE": 1.462,
+        "LONGITUDE": 124.9125,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "SMA negeri strategis di kawasan penyangga perbatasan Manado dan Minahasa Utara",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gedung_SMAN_1_Kalawat.jpg/800px-Gedung_SMAN_1_Kalawat.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/500D6030-2CF5-E011-AE74-29007DA1DB14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9125,
+          1.462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-006",
+        "NAMA_OBJ": "SMA Negeri 1 Kauditan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Trans Sulawesi, Kauditan Satu, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Kauditan Satu",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0350, 1.4035",
+        "LATITUDE": 1.4035,
+        "LONGITUDE": 125.035,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "SMA negeri berprestasi di wilayah timur Minahasa Utara dengan kurikulum merdeka",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gedung_SMAN_1_Kauditan.jpg/800px-Gedung_SMAN_1_Kauditan.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/40346030-2CF5-E011-9F31-5BCA426A0E4B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.035,
+          1.4035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-007",
+        "NAMA_OBJ": "SMA Negeri 1 Dimembe",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Airmadidi - Dimembe, Laikit, Dimembe, Minahasa Utara",
+        "DESA_KEL": "Laikit",
+        "KECAMATAN": "Dimembe",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9620, 1.4690",
+        "LATITUDE": 1.469,
+        "LONGITUDE": 124.962,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "Sekolah adiwiyata berwawasan lingkungan hijau dengan sarana laboratorium sains memadai",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gedung_SMAN_1_Dimembe.jpg/800px-Gedung_SMAN_1_Dimembe.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/C0016030-2CF5-E011-A1DF-0BF2C868A7CD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.962,
+          1.469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-008",
+        "NAMA_OBJ": "SMA Negeri 1 Likupang",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Raya Likupang - Manado, Likupang Satu, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Likupang Satu",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0545, 1.6780",
+        "LATITUDE": 1.678,
+        "LONGITUDE": 125.0545,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "Pusat pendidikan menengah atas negeri utama di kawasan Destinasi Super Prioritas Likupang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gedung_SMAN_1_Likupang.jpg/800px-Gedung_SMAN_1_Likupang.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/F0046030-2CF5-E011-B67B-EB61C028F97E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0545,
+          1.678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-009",
+        "NAMA_OBJ": "SMA Negeri 1 Likupang Barat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Pesisir Barat Likupang, Tarabitan, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Tarabitan",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0080, 1.7130",
+        "LATITUDE": 1.713,
+        "LONGITUDE": 125.008,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "Lembaga pendidikan formal tingkat atas yang melayani pelajar pesisir barat Likupang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gedung_SMAN_1_Likupang_Barat.jpg/800px-Gedung_SMAN_1_Likupang_Barat.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/D01F6030-2CF5-E011-A52E-E538BE376663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.008,
+          1.713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-010",
+        "NAMA_OBJ": "SMA Negeri 1 Likupang Selatan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Raya Kokoleh, Kokoleh Dua, Likupang Selatan, Minahasa Utara",
+        "DESA_KEL": "Kokoleh Dua",
+        "KECAMATAN": "Likupang Selatan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0340, 1.5890",
+        "LATITUDE": 1.589,
+        "LONGITUDE": 125.034,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "Penyedia akses pendidikan menengah atas bagi masyarakat kawasan pedalaman Likupang Selatan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gedung_SMAN_1_Likupang_Selatan.jpg/800px-Gedung_SMAN_1_Likupang_Selatan.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/A0276030-2CF5-E011-80C4-13837D972D71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.034,
+          1.589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-011",
+        "NAMA_OBJ": "SMA Negeri 1 Wori",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Pesisir Wori, Desa Wori Jaga II, Wori, Minahasa Utara",
+        "DESA_KEL": "Wori",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8620, 1.5815",
+        "LATITUDE": 1.5815,
+        "LONGITUDE": 124.862,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "SMA negeri kawasan pesisir barat yang terintegrasi dengan edukasi konservasi maritim",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gedung_SMAN_1_Wori.jpg/800px-Gedung_SMAN_1_Wori.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/50786030-2CF5-E011-B342-972FE78EB427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.862,
+          1.5815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-012",
+        "NAMA_OBJ": "SMA Negeri 1 Talawaan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Raya Bandara - Talawaan, Talawaan, Minahasa Utara",
+        "DESA_KEL": "Talawaan",
+        "KECAMATAN": "Talawaan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9580, 1.5050",
+        "LATITUDE": 1.505,
+        "LONGITUDE": 124.958,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "Sekolah menengah atas negeri berkembang pesat dekat koridor bandara Sam Ratulangi",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gedung_SMAN_1_Talawaan.jpg/800px-Gedung_SMAN_1_Talawaan.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/40896030-2CF5-E011-96E8-1B903E75A9C1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.958,
+          1.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-013",
+        "NAMA_OBJ": "SMA Negeri 1 Kema",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Negeri)",
+        "ALAMAT": "Jl. Raya Kema - Kakas, Kema Satu, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema Satu",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0650, 1.3660",
+        "LATITUDE": 1.366,
+        "LONGITUDE": 125.065,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Dapodik",
+        "KETERANGAN": "SMA negeri di pesisir pelabuhan Kema yang mengutamakan pembinaan literasi dan kelautan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gedung_SMAN_1_Kema.jpg/800px-Gedung_SMAN_1_Kema.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/50536030-2CF5-E011-903D-93DDC7FE3D81"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.065,
+          1.366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-014",
+        "NAMA_OBJ": "SMA Kristen UNKLAB Airmadidi",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Swasta)",
+        "ALAMAT": "Kompleks Kampus UNKLAB, Airmadidi Bawah, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Bawah",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9810, 1.4170",
+        "LATITUDE": 1.417,
+        "LONGITUDE": 124.981,
+        "SUMBER": "Yayasan Perguruan Advent / Dapodik",
+        "KETERANGAN": "Sekolah berasrama swasta Kristen Advent dengan kurikulum dwibahasa (bilingual) terpadu",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SMA_Kristen_UNKLAB.jpg/800px-SMA_Kristen_UNKLAB.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/60826030-2CF5-E011-B6FD-BBE7FF00A63B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.981,
+          1.417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-015",
+        "NAMA_OBJ": "SMA Katolik Don Bosco Lembean",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Swasta)",
+        "ALAMAT": "Jl. Lembean - Kema, Lembean, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Lembean",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0420, 1.3850",
+        "LATITUDE": 1.385,
+        "LONGITUDE": 125.042,
+        "SUMBER": "Yayasan Pendidikan Katolik Keuskupan Manado",
+        "KETERANGAN": "Sekolah menengah legendaris berbasis asrama Katolik dengan rekam jejak alumni berprestasi",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SMA_Katolik_Don_Bosco_Lembean.jpg/800px-SMA_Katolik_Don_Bosco_Lembean.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/D0136030-2CF5-E011-B785-555D5002C93A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.042,
+          1.385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-016",
+        "NAMA_OBJ": "SMA Pelita Wineru",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Swasta)",
+        "ALAMAT": "Desa Wineru Jaga II, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Wineru",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1120, 1.6320",
+        "LATITUDE": 1.632,
+        "LONGITUDE": 125.112,
+        "SUMBER": "Yayasan Pendidikan Kristen / Dapodik",
+        "KETERANGAN": "Sekolah swasta Kristen yang melayani akses pendidikan lanjutan di desa pedalaman Likupang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SMA_Pelita_Wineru_Likupang.jpg/800px-SMA_Pelita_Wineru_Likupang.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/40606030-2CF5-E011-BE4E-AFACCE57B54C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.112,
+          1.632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-017",
+        "NAMA_OBJ": "SMA Lentera Harapan Kuranga",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Menengah Atas (SMA Swasta)",
+        "ALAMAT": "Desa Kolongan Tetempangan, Kalawat - Talawaan, Minahasa Utara",
+        "DESA_KEL": "Kolongan Tetempangan",
+        "KECAMATAN": "Talawaan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9280, 1.4920",
+        "LATITUDE": 1.492,
+        "LONGITUDE": 124.928,
+        "SUMBER": "Yayasan Pendidikan Pelita Harapan (YPPH)",
+        "KETERANGAN": "Sekolah swasta Kristen berstandar mutu tinggi dengan fokus pembinaan iman dan karakter siswa",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SMA_Lentera_Harapan_Sulut.jpg/800px-SMA_Lentera_Harapan_Sulut.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/47ECA144-8F74-4C70-98B5-9DFDE750278F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.928,
+          1.492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-018",
+        "NAMA_OBJ": "SMK Negeri 1 Airmadidi",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Negeri)",
+        "ALAMAT": "Jl. Arnold Mononutu, Sarongsong Dua, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Sarongsong Dua",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9760, 1.4230",
+        "LATITUDE": 1.423,
+        "LONGITUDE": 124.976,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Kemendikdasmen",
+        "KETERANGAN": "SMK Pusat Keunggulan kejuruan Teknik Komputer, Jaringan, Multimedia, dan Bisnis Perkantoran",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/SMK_Negeri_1_Airmadidi.jpg/800px-SMK_Negeri_1_Airmadidi.jpg",
+        "WEBSITE": "https://smkn1airmadidi.sch.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.976,
+          1.423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-019",
+        "NAMA_OBJ": "SMK Negeri 1 Likupang Timur",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Negeri)",
+        "ALAMAT": "Jl. Trans Likupang, Desa Winuri, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Winuri",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0880, 1.6540",
+        "LATITUDE": 1.654,
+        "LONGITUDE": 125.088,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Kemendikdasmen",
+        "KETERANGAN": "SMK negeri vokasi perhotelan, tata boga, dan usaha perjalanan wisata penopang KEK Likupang",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/SMKN_1_Likupang_Timur.jpg/800px-SMKN_1_Likupang_Timur.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/B0786030-2CF5-E011-8207-6B1832049BA5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.088,
+          1.654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-020",
+        "NAMA_OBJ": "SMK Negeri 1 Likupang Barat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Negeri)",
+        "ALAMAT": "Desa Minaesa, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Minaesa",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9746, 1.7026",
+        "LATITUDE": 1.7026,
+        "LONGITUDE": 124.9746,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Kemendikdasmen",
+        "KETERANGAN": "Sekolah kejuruan negeri agribisnis perikanan payau/laut dan pelayaran perikanan tangkap",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/SMKN_1_Likupang_Barat.jpg/800px-SMKN_1_Likupang_Barat.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/90916030-2CF5-E011-9A33-87E71C8F8F99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9746,
+          1.7026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-021",
+        "NAMA_OBJ": "SMK Negeri 2 Likupang Barat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Negeri)",
+        "ALAMAT": "Desa Mantehage, Kepulauan Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Mantehage",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.7720, 1.7310",
+        "LATITUDE": 1.731,
+        "LONGITUDE": 124.772,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Kemendikdasmen",
+        "KETERANGAN": "SMK kejuruan pesisir kepulauan dengan spesialisasi navigasi kapal penangkap ikan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SMKN_2_Likupang_Barat_Mantehage.jpg/800px-SMKN_2_Likupang_Barat_Mantehage.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/207B6030-2CF5-E011-96AA-BB89E8873E47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.772,
+          1.731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-022",
+        "NAMA_OBJ": "SMK Negeri 1 Wori",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Negeri)",
+        "ALAMAT": "Jl. Raya Manado - Wori, Desa Budo, Wori, Minahasa Utara",
+        "DESA_KEL": "Budo",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8690, 1.5760",
+        "LATITUDE": 1.576,
+        "LONGITUDE": 124.869,
+        "SUMBER": "Dinas Pendidikan Daerah Sulut / Kemendikdasmen",
+        "KETERANGAN": "SMK negeri vokasi kemaritiman dan ekowisata pesisir di sekitar Taman Nasional Bunaken",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SMKN_1_Wori_Budo.jpg/800px-SMKN_1_Wori_Budo.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/509A6030-2CF5-E011-A5C8-BF345719DF7B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.869,
+          1.576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-023",
+        "NAMA_OBJ": "SMK Yadika Manado (Kalawat)",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Swasta)",
+        "ALAMAT": "Jl. Raya Manado - Bitung Km. 11, Kolongan, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Kolongan",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9080, 1.4710",
+        "LATITUDE": 1.471,
+        "LONGITUDE": 124.908,
+        "SUMBER": "Yayasan Abdi Karya (YADIKA)",
+        "KETERANGAN": "SMK swasta modern fasilitas lengkap dengan konsentrasi keperawatan, farmasi, dan RPL",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SMK_Yadika_Manado_Kalawat.jpg/800px-SMK_Yadika_Manado_Kalawat.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/20E96030-2CF5-E011-8933-219C1196E693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.908,
+          1.471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-024",
+        "NAMA_OBJ": "SMK Klabat Airmadidi",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Swasta)",
+        "ALAMAT": "Jl. Airmadidi Bawah, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Bawah",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9830, 1.4150",
+        "LATITUDE": 1.415,
+        "LONGITUDE": 124.983,
+        "SUMBER": "Yayasan Perguruan Advent UNKLAB",
+        "KETERANGAN": "Pendidikan vokasi bidang teknologi informasi, akuntansi keuangan, dan administrasi perkantoran",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SMK_Klabat_Airmadidi.jpg/800px-SMK_Klabat_Airmadidi.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/A0636030-2CF5-E011-8406-EDF7C92461D2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.983,
+          1.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-025",
+        "NAMA_OBJ": "SMK Kristen Imanuel Laikit",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Swasta)",
+        "ALAMAT": "Jl. Dimembe - Tatelu, Laikit, Dimembe, Minahasa Utara",
+        "DESA_KEL": "Laikit",
+        "KECAMATAN": "Dimembe",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9650, 1.4680",
+        "LATITUDE": 1.468,
+        "LONGITUDE": 124.965,
+        "SUMBER": "Yayasan GMIM Ds. A.Z.R. Wenas",
+        "KETERANGAN": "SMK swasta kejuruan teknik instalasi tenaga listrik dan teknik kendaraan ringan otomotif",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SMK_Kristen_Imanuel_Laikit.jpg/800px-SMK_Kristen_Imanuel_Laikit.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/109E6030-2CF5-E011-8152-DFB2A1CC3C2B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.965,
+          1.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-026",
+        "NAMA_OBJ": "SMK Advent Kaima",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Swasta)",
+        "ALAMAT": "Jl. Raya Kauditan - Kema, Desa Kaima, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Kaima",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0180, 1.4080",
+        "LATITUDE": 1.408,
+        "LONGITUDE": 125.018,
+        "SUMBER": "Yayasan Pendidikan Advent Kaima",
+        "KETERANGAN": "Sekolah kejuruan agribisnis tanaman perkebunan dan manajemen bisnis terpadu",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SMK_Advent_Kaima_Kauditan.jpg/800px-SMK_Advent_Kaima_Kauditan.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/80266030-2CF5-E011-A8CE-934C3EF39221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.018,
+          1.408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-027",
+        "NAMA_OBJ": "SMK Kasih Ibu Walanda Maramis",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Swasta)",
+        "ALAMAT": "Jl. Raya Manado - Bitung, Maumbi, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Maumbi",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9090, 1.4580",
+        "LATITUDE": 1.458,
+        "LONGITUDE": 124.909,
+        "SUMBER": "Yayasan Kasih Ibu Minahasa Utara",
+        "KETERANGAN": "Pendidikan kejuruan bidang layanan kesehatan masyarakat, asisten perawat, dan farmasi klinik",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SMK_Kasih_Ibu_Maumbi.jpg/800px-SMK_Kasih_Ibu_Maumbi.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/70576030-2CF5-E011-9A6F-09D72F2E4A7D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.909,
+          1.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-028",
+        "NAMA_OBJ": "SMK Getsemani Gangga I",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Kejuruan (SMK Swasta)",
+        "ALAMAT": "Desa Gangga Satu, Pulau Gangga, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Gangga Satu",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0650, 1.7580",
+        "LATITUDE": 1.758,
+        "LONGITUDE": 125.065,
+        "SUMBER": "Yayasan Misi Getsemani Sulut",
+        "KETERANGAN": "Sekolah vokasi pulau terluar menyediakan keahlian budidaya perairan dan teknologi penangkapan ikan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SMK_Getsemani_Gangga.jpg/800px-SMK_Getsemani_Gangga.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/30526030-2CF5-E011-BD79-DFDDF6F7B8C4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.065,
+          1.758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-029",
+        "NAMA_OBJ": "SMP Negeri 1 Airmadidi",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Prof. Arnold Mononutu, Sarongsong Satu, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Sarongsong Satu",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9780, 1.4220",
+        "LATITUDE": 1.422,
+        "LONGITUDE": 124.978,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Sekolah menengah pertama negeri rujukan kabupaten dengan prestasi sains dan seni budaya",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SMPN_1_Airmadidi.jpg/800px-SMPN_1_Airmadidi.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/00225F30-2CF5-E011-9F11-D9F43BC4F7DC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.978,
+          1.422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-030",
+        "NAMA_OBJ": "SMP Negeri 2 Airmadidi",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Kayu Besi, Rap-Rap, Airmadidi, Minahasa Utara",
+        "DESA_KEL": "Rap-Rap",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9750, 1.4310",
+        "LATITUDE": 1.431,
+        "LONGITUDE": 124.975,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri berwawasan adiwiyata dengan fasilitas laboratorium IPA terpadu dan perpustakaan digital",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/SMPN_2_Airmadidi_RapRap.jpg/800px-SMPN_2_Airmadidi_RapRap.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/E0365F30-2CF5-E011-A85B-F14BCA72E4FD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.975,
+          1.431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-031",
+        "NAMA_OBJ": "SMP Negeri 1 Kalawat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Trans Manado - Bitung, Kawangkoan Baru, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Kawangkoan Baru",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9140, 1.4650",
+        "LATITUDE": 1.465,
+        "LONGITUDE": 124.914,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Sekolah menengah pertama negeri berpopulasi siswa besar dengan fasilitas ruang multimedia modern",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SMPN_1_Kalawat.jpg/800px-SMPN_1_Kalawat.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/60835F30-2CF5-E011-91BC-9F4F5DA99539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.914,
+          1.465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-032",
+        "NAMA_OBJ": "SMP Negeri 2 Kalawat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Kolongan, Kalawat, Minahasa Utara",
+        "DESA_KEL": "Kolongan",
+        "KECAMATAN": "Kalawat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9100, 1.4690",
+        "LATITUDE": 1.469,
+        "LONGITUDE": 124.91,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri dengan konsentrasi pengembangan bakat kepemimpinan OSIS dan olahraga atletik",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/SMPN_2_Kalawat_Kolongan.jpg/800px-SMPN_2_Kalawat_Kolongan.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/80975F30-2CF5-E011-8409-5D7F8FA1D4A6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.91,
+          1.469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-033",
+        "NAMA_OBJ": "SMP Negeri 1 Kauditan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Kawiley Jl. Kema - Manado, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Kawiley",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0290, 1.4080",
+        "LATITUDE": 1.408,
+        "LONGITUDE": 125.029,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri tertua di Kecamatan Kauditan berprestasi pada ajang olimpiade sains nasional daerah",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SMPN_1_Kauditan.jpg/800px-SMPN_1_Kauditan.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/F0275F30-2CF5-E011-85E8-F97B6774BC0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.029,
+          1.408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-034",
+        "NAMA_OBJ": "SMP Negeri 2 Kauditan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Watudambo, Kauditan, Minahasa Utara",
+        "DESA_KEL": "Watudambo",
+        "KECAMATAN": "Kauditan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0120, 1.4150",
+        "LATITUDE": 1.415,
+        "LONGITUDE": 125.012,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Lembaga pendidikan formal tingkat SMP yang melayani desa-desa kawasan barat Kauditan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SMPN_2_Kauditan_Watudambo.jpg/800px-SMPN_2_Kauditan_Watudambo.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/A03B5F30-2CF5-E011-AB43-DF6D4C66C024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.012,
+          1.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-035",
+        "NAMA_OBJ": "SMP Negeri 1 Kema",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Pelabuhan Kema, Kema Dua, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema Dua",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0660, 1.3680",
+        "LATITUDE": 1.368,
+        "LONGITUDE": 125.066,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri utama di pesisir pelabuhan Kema dengan fokus kurikulum merdeka dan kemaritiman",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SMPN_1_Kema.jpg/800px-SMPN_1_Kema.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/C0375F30-2CF5-E011-B6FE-43F3FE3BF536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.066,
+          1.368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-036",
+        "NAMA_OBJ": "SMP Negeri 2 Kema",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Makalisung, Kema, Minahasa Utara",
+        "DESA_KEL": "Makalisung",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0890, 1.3120",
+        "LATITUDE": 1.312,
+        "LONGITUDE": 125.089,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Menyediakan sarana belajar jenjang SMP bagi generasi muda di desa perbatasan pesisir selatan Kema",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SMPN_2_Kema_Makalisung.jpg/800px-SMPN_2_Kema_Makalisung.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/305F5F30-2CF5-E011-A52E-DF12E36965E5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.089,
+          1.312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-037",
+        "NAMA_OBJ": "SMP Negeri 1 Dimembe",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Tatelu - Pinilih, Tatelu Satu, Dimembe, Minahasa Utara",
+        "DESA_KEL": "Tatelu Satu",
+        "KECAMATAN": "Dimembe",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9770, 1.4735",
+        "LATITUDE": 1.4735,
+        "LONGITUDE": 124.977,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri favorit berprestasi bidang kepramukaan dan kegiatan ekstrakurikuler lingkungan hidup",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/SMPN_1_Dimembe_Tatelu.jpg/800px-SMPN_1_Dimembe_Tatelu.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/D0B75F30-2CF5-E011-9791-E9BA769EFEFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.977,
+          1.4735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-038",
+        "NAMA_OBJ": "SMP Negeri 2 Dimembe",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Wasian, Dimembe, Minahasa Utara",
+        "DESA_KEL": "Wasian",
+        "KECAMATAN": "Dimembe",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9540, 1.4580",
+        "LATITUDE": 1.458,
+        "LONGITUDE": 124.954,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Sekolah ramah anak dengan implementasi pembelajaran digital berbasis Chromebook dan Google Classroom",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SMPN_2_Dimembe_Wasian.jpg/800px-SMPN_2_Dimembe_Wasian.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/90D35F30-2CF5-E011-9964-AB83FA468303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.954,
+          1.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-039",
+        "NAMA_OBJ": "SMP Negeri 1 Talawaan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Raya Talawaan, Talawaan, Minahasa Utara",
+        "DESA_KEL": "Talawaan",
+        "KECAMATAN": "Talawaan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9590, 1.5030",
+        "LATITUDE": 1.503,
+        "LONGITUDE": 124.959,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Pusat gugus sekolah menengah pertama di Kecamatan Talawaan dengan ruang kelas representatif",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/SMPN_1_Talawaan.jpg/800px-SMPN_1_Talawaan.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/60FB5F30-2CF5-E011-A92F-43B4232C035C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.959,
+          1.503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-040",
+        "NAMA_OBJ": "SMP Negeri 2 Talawaan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Teep Warisa, Talawaan, Minahasa Utara",
+        "DESA_KEL": "Teep Warisa",
+        "KECAMATAN": "Talawaan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9450, 1.5210",
+        "LATITUDE": 1.521,
+        "LONGITUDE": 124.945,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri penyangga kawasan perkebunan dan permukiman berkembang di Talawaan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/SMPN_2_Talawaan_Warisa.jpg/800px-SMPN_2_Talawaan_Warisa.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/B0096030-2CF5-E011-A2AF-0775B3DC6051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.945,
+          1.521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-041",
+        "NAMA_OBJ": "SMP Negeri 1 Wori",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Wori No. 35, Wori, Minahasa Utara",
+        "DESA_KEL": "Wori",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8610, 1.5830",
+        "LATITUDE": 1.583,
+        "LONGITUDE": 124.861,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri induk di pesisir barat Minahasa Utara dekat fasilitas pelabuhan perahu Wori",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SMPN_1_Wori.jpg/800px-SMPN_1_Wori.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/50705F30-2CF5-E011-AC1F-BF0EDDCB8869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.861,
+          1.583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-042",
+        "NAMA_OBJ": "SMP Negeri 2 Wori",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Tiwoho, Wori, Minahasa Utara",
+        "DESA_KEL": "Tiwoho",
+        "KECAMATAN": "Wori",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.8590, 1.5720",
+        "LATITUDE": 1.572,
+        "LONGITUDE": 124.859,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Sekolah pesisir aktif menggalakkan pendidikan konservasi alam laut bersama Balai TN Bunaken",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/SMPN_2_Wori_Tiwoho.jpg/800px-SMPN_2_Wori_Tiwoho.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/308A5F30-2CF5-E011-885E-293F421D8EB8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.859,
+          1.572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-043",
+        "NAMA_OBJ": "SMP Negeri 1 Likupang Timur",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Jl. Likupang Satu, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Likupang Satu",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0530, 1.6790",
+        "LATITUDE": 1.679,
+        "LONGITUDE": 125.053,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri terakreditasi A dengan program pembinaan vokasi dasar dan bahasa asing",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SMPN_1_Likupang_Timur.jpg/800px-SMPN_1_Likupang_Timur.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/90145F30-2CF5-E011-A795-CF0839EE75C5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.053,
+          1.679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-044",
+        "NAMA_OBJ": "SMP Negeri 2 Likupang Timur",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Rinondoran, Likupang Timur, Minahasa Utara",
+        "DESA_KEL": "Rinondoran",
+        "KECAMATAN": "Likupang Timur",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.1380, 1.6480",
+        "LATITUDE": 1.648,
+        "LONGITUDE": 125.138,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Membuka akses pendidikan menengah pertama bagi pemukiman pesisir ujung timur pulau",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SMPN_2_Likupang_Timur_Rinondoran.jpg/800px-SMPN_2_Likupang_Timur_Rinondoran.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/B0375F30-2CF5-E011-BAF4-071B20A77187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.138,
+          1.648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-045",
+        "NAMA_OBJ": "SMP Negeri 1 Likupang Barat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Talise, Kepulauan Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Talise",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0340, 1.8350",
+        "LATITUDE": 1.835,
+        "LONGITUDE": 125.034,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri di Pulau Talise yang memberikan jangkauan pendidikan bagi anak-anak kepulauan terpencil",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SMPN_1_Likupang_Barat_Talise.jpg/800px-SMPN_1_Likupang_Barat_Talise.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/30B85F30-2CF5-E011-B61E-7D47DBBC011D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.034,
+          1.835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-046",
+        "NAMA_OBJ": "SMP Negeri 2 Likupang Barat",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Teromal, Likupang Barat, Minahasa Utara",
+        "DESA_KEL": "Teromal",
+        "KECAMATAN": "Likupang Barat",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9850, 1.7050",
+        "LATITUDE": 1.705,
+        "LONGITUDE": 124.985,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Sekolah negeri tingkat pertama di daratan pesisir Likupang Barat dengan lingkungan asri tepi perbukitan",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SMPN_2_Likupang_Barat_Teromal.jpg/800px-SMPN_2_Likupang_Barat_Teromal.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/50CC5F30-2CF5-E011-8977-850E24ED4F57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.985,
+          1.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-047",
+        "NAMA_OBJ": "SMP Negeri 1 Likupang Selatan",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Negeri)",
+        "ALAMAT": "Desa Wangurer, Likupang Selatan, Minahasa Utara",
+        "DESA_KEL": "Wangurer",
+        "KECAMATAN": "Likupang Selatan",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0210, 1.6020",
+        "LATITUDE": 1.602,
+        "LONGITUDE": 125.021,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "SMP negeri penggerak di kawasan lembah Likupang Selatan yang sejuk dan produktif pertanian",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/SMPN_1_Likupang_Selatan_Wangurer.jpg/800px-SMPN_1_Likupang_Selatan_Wangurer.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/A0EF5F30-2CF5-E011-8846-E9F3C6418E97"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.021,
+          1.602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-048",
+        "NAMA_OBJ": "SMP Katolik Santo Fransiskus Kema",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Swasta)",
+        "ALAMAT": "Desa Kema Dua, Kema, Minahasa Utara",
+        "DESA_KEL": "Kema Dua",
+        "KECAMATAN": "Kema",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "125.0670, 1.3670",
+        "LATITUDE": 1.367,
+        "LONGITUDE": 125.067,
+        "SUMBER": "Yayasan Pendidikan Katolik Keuskupan Manado",
+        "KETERANGAN": "Sekolah swasta Katolik bersejarah di pesisir Kema dengan penanaman nilai budi pekerti luhur",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SMP_Katolik_St_Fransiskus_Kema.jpg/800px-SMP_Katolik_St_Fransiskus_Kema.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/704B5F30-2CF5-E011-9311-536BF1C3707B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.067,
+          1.367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-049",
+        "NAMA_OBJ": "SMP Advent UNKLAB Airmadidi",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar Menengah (SMP Swasta)",
+        "ALAMAT": "Kompleks Kampus UNKLAB, Airmadidi Bawah, Minahasa Utara",
+        "DESA_KEL": "Airmadidi Bawah",
+        "KECAMATAN": "Airmadidi",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9820, 1.4165",
+        "LATITUDE": 1.4165,
+        "LONGITUDE": 124.982,
+        "SUMBER": "Yayasan Perguruan Advent UNKLAB",
+        "KETERANGAN": "SMP swasta berasrama dengan pendidikan karakter Kristiani, kurikulum nasional, dan bilingual",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SMP_Advent_UNKLAB_Airmadidi.jpg/800px-SMP_Advent_UNKLAB_Airmadidi.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/901D5F30-2CF5-E011-805F-FF2DEB705FA8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.982,
+          1.4165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "PDK-050",
+        "NAMA_OBJ": "SD Negeri Matungkas",
+        "KATEGORI": "Sekolah",
+        "SUB_KAT": "Pendidikan Dasar (SD Negeri)",
+        "ALAMAT": "Jl. Raya Likupang, Matungkas, Dimembe, Minahasa Utara",
+        "DESA_KEL": "Matungkas",
+        "KECAMATAN": "Dimembe",
+        "KABUPATEN": "Minahasa Utara",
+        "KOORDINAT": "124.9580, 1.4610",
+        "LATITUDE": 1.461,
+        "LONGITUDE": 124.958,
+        "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
+        "KETERANGAN": "Sekolah dasar negeri percontohan ramah anak dengan fasilitas lapangan luas dan perpustakaan aktif",
+        "TAHUN": 2026,
+        "FOTO_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SDN_Matungkas_Dimembe.jpg/800px-SDN_Matungkas_Dimembe.jpg",
+        "WEBSITE": "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/C0A84D30-2CF5-E011-A5F6-0FEBD025FA8B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.958,
+          1.461
+        ]
+      }
+    }
+  ]
+}
