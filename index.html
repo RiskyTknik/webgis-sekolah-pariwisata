@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebGIS Sekolah dan Pariwisata</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="topbar">
+        <h1>WebGIS Sekolah dan Pariwisata</h1>
+        <p>Persebaran sekolah dan objek pariwisata di Kepulauan Sangihe, Talaud, dan sekitarnya</p>
+    </header>
+
+    <div class="layout">
+        <aside class="panel">
+            <section>
+                <h2>Filter kategori</h2>
+                <div class="filter" id="filter">
+                    <button data-kategori="Semua" class="active">Semua</button>
+                    <button data-kategori="Sekolah">Sekolah</button>
+                    <button data-kategori="Pariwisata">Pariwisata</button>
+                </div>
+            </section>
+
+            <section>
+                <h2>Cari nama objek</h2>
+                <input type="search" id="search" placeholder="Ketik nama sekolah atau wisata">
+                <ul id="searchResult" class="result"></ul>
+            </section>
+
+            <section>
+                <h2>Jumlah objek</h2>
+                <dl class="stats">
+                    <dt><span class="dot dot-sekolah"></span>Sekolah</dt>
+                    <dd id="countSekolah">0</dd>
+                    <dt><span class="dot dot-wisata"></span>Pariwisata</dt>
+                    <dd id="countWisata">0</dd>
+                    <dt>Total</dt>
+                    <dd id="countTotal">0</dd>
+                </dl>
+            </section>
+
+            <section>
+                <h2>Informasi data</h2>
+                <p class="note">
+                    Wilayah: Kepulauan Sangihe, Talaud, dan sekitarnya (Sulawesi Utara).<br>
+                    Sumber data: dataset kelompok (Section 1).<br>
+                    Tahun pengumpulan: 2026.
+                </p>
+            </section>
+        </aside>
+
+        <main id="map" aria-label="Peta interaktif"></main>
+    </div>
+
+    <footer>WebGIS Sekolah dan Pariwisata &middot; Dibuat oleh Kelompok ... &middot; Basemap &copy; OpenStreetMap</footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
