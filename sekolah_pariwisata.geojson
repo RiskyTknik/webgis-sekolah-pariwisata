@@ -2646,8 +2646,8 @@
         "KECAMATAN": "Likupang Barat",
         "KABUPATEN": "Minahasa Utara",
         "KOORDINAT": "1.8081, 125.0601",
-        "LATITUDE": 1.8081,
-        "LONGITUDE": 125.0601,
+        "LATITUDE": 1.808,
+        "LONGITUDE": 125.060,
         "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
         "KETERANGAN": "SMP negeri di Pulau Talise yang memberikan jangkauan pendidikan bagi anak-anak kepulauan terpencil",
         "TAHUN": 2026,
@@ -2657,8 +2657,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.0601,
-          1.8081
+          125.060,
+          1.808
         ]
       }
     },
