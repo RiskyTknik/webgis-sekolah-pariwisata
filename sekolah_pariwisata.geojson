@@ -2169,9 +2169,9 @@
         "DESA_KEL": "Gangga Satu",
         "KECAMATAN": "Likupang Barat",
         "KABUPATEN": "Minahasa Utara",
-        "KOORDINAT": "125.0650, 1.7580",
-        "LATITUDE": 1.758,
-        "LONGITUDE": 125.065,
+        "KOORDINAT": "1.7715, 125.0526",
+        "LATITUDE": 1.7715,
+        "LONGITUDE": 125.0526,
         "SUMBER": "Yayasan Misi Getsemani Sulut",
         "KETERANGAN": "Sekolah vokasi pulau terluar menyediakan keahlian budidaya perairan dan teknologi penangkapan ikan",
         "TAHUN": 2026,
@@ -2181,8 +2181,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.065,
-          1.758
+          125.0526,
+          1.7715
         ]
       }
     },
@@ -2590,8 +2590,8 @@
         "KECAMATAN": "Likupang Timur",
         "KABUPATEN": "Minahasa Utara",
         "KOORDINAT": "125.0530, 1.6790",
-        "LATITUDE": 1.679,
-        "LONGITUDE": 125.053,
+        "LATITUDE": 1.8081,
+        "LONGITUDE": 125.0601,
         "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
         "KETERANGAN": "SMP negeri terakreditasi A dengan program pembinaan vokasi dasar dan bahasa asing",
         "TAHUN": 2026,
@@ -2645,9 +2645,9 @@
         "DESA_KEL": "Talise",
         "KECAMATAN": "Likupang Barat",
         "KABUPATEN": "Minahasa Utara",
-        "KOORDINAT": "125.0340, 1.8350",
-        "LATITUDE": 1.835,
-        "LONGITUDE": 125.034,
+        "KOORDINAT": "1.8081, 125.0601",
+        "LATITUDE": 1.8081,
+        "LONGITUDE": 125.0601,
         "SUMBER": "Dinas Pendidikan Kab. Minahasa Utara",
         "KETERANGAN": "SMP negeri di Pulau Talise yang memberikan jangkauan pendidikan bagi anak-anak kepulauan terpencil",
         "TAHUN": 2026,
@@ -2657,8 +2657,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.034,
-          1.835
+          125.0601,
+          1.8081
         ]
       }
     },
