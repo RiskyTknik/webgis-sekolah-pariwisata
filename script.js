@@ -128,85 +128,32 @@ function buatLayerControl() {
 buatLayerControl();
 
 
-/* ===== 9. Batas administrasi ===== */
+/* ===== 9. Batas administrasi (opsional) =====
+   Setiap file dimuat terpisah agar batas tetap tampil meski data objek gagal. */
+let adaBatas = false;
 
-function muatBatas(url, nama, warna, tebal, dash = null) {
-
+function muatBatas(url, nama, warna, tebal) {
     fetch(url)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(
-                    `${nama}: HTTP ${response.status}`
-                );
-            }
-            return response.json();
+        .then(res => {
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return res.json();
         })
         .then(data => {
-
-            // Memastikan GeoJSON memiliki fitur
-            if (!data.features || data.features.length === 0) {
-                throw new Error(`${nama}: GeoJSON tidak memiliki fitur`);
-            }
-
-            console.log(`${nama}:`, data);
-
-            // Membuat layer batas wilayah
             const layer = L.geoJSON(data, {
-                style: function(feature) {
-                    return {
-                        color: warna,
-                        weight: tebal,
-                        opacity: 1,
-                        fill: false,
-                        dashArray: dash
-                    };
-                },
+                style: { color: warna, weight: tebal, fill: false },
                 interactive: false
-            });
-
-            // Memastikan koordinat valid
-            if (!layer.getBounds().isValid()) {
-                throw new Error(`${nama}: Koordinat tidak valid`);
-            }
-
-            // Menampilkan batas pada peta
-            layer.addTo(map);
-            layer.bringToFront();
-
-            // Memasukkan ke Layer Control
+            }).addTo(map);
+            layer.bringToBack();
             layerControl.addOverlay(layer, nama);
-
-            // Memperbarui legenda
-            if (legendEl) {
-                const baris = legendEl.querySelector(".baris-batas");
-                if (baris) baris.style.display = "block";
-            }
-
-            console.log(
-                `BERHASIL: ${nama} (${data.features.length} fitur)`
-            );
+            adaBatas = true;
+            if (legendEl) legendEl.querySelector(".baris-batas").style.display = "block";
         })
-        .catch(error => {
-            console.error(`GAGAL MEMUAT ${nama}:`, error);
+        .catch(err => {
+            console.error(`Gagal memuat ${nama} dari ${url}:`, err);
         });
 }
-
-// Memuat batas kabupaten
-muatBatas(
-    "./batas_kabupaten.geojson",
-    "Batas Kabupaten",
-    "#dc2626",
-    3
-);
-
-// Memuat batas kecamatan
-muatBatas(
-    "./batas_kecamatan.geojson",
-    "Batas Kecamatan",
-    "#2563eb",
-    2,
-    "6, 4"
-);
+muatBatas("batas_kabupaten.geojson", "Batas kabupaten/kota", "#5b6b70", 1.6);
+muatBatas("batas_kecamatan.geojson", "Batas kecamatan", "#8fa0a5", 0.8);
 
 /* ===== 10. Legenda ===== */
 let legendEl;
