@@ -80,7 +80,7 @@ function buatLayer(data, kategori) {
 }
 
 /* ===== 6. Memuat GeoJSON ===== */
-fetch("data/sekolah_pariwisata.geojson")
+fetch("sekolah_pariwisata.geojson")
     .then(res => {
         if (!res.ok) throw new Error("Gagal memuat GeoJSON (cek nama file dan folder data/)");
         return res.json();
