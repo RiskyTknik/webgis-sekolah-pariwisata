@@ -151,8 +151,8 @@ function muatBatas(url, nama, warna, tebal) {
             console.error(`Gagal memuat ${nama} dari ${url}:`, err);
         });
 }
-muatBatas("data/batas_kabupaten.geojson", "Batas kabupaten/kota", "#5b6b70", 1.6);
-muatBatas("data/batas_kecamatan.geojson", "Batas kecamatan", "#8fa0a5", 0.8);
+muatBatas("batas_kabupaten.geojson", "Batas kabupaten/kota", "#5b6b70", 1.6);
+muatBatas("batas_kecamatan.geojson", "Batas kecamatan", "#8fa0a5", 0.8);
 
 /* ===== 10. Legenda ===== */
 let legendEl;
